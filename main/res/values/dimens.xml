@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="img">385dp</dimen>
+    <dimen name="img2">250dp</dimen>
+    <dimen name="size">15pt</dimen>
+    <dimen name="dimens">15pt</dimen>
+    <dimen name="button">10pt</dimen>
+    <dimen name="size2">15pt</dimen>
+</resources>
